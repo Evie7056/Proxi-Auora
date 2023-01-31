@@ -11,7 +11,7 @@
 	departments = {"Medical<br>Science<br>Service"}
 	title_suffix = "NT"
 
-	is_default = TRUE
+	is_default = FALSE
 
 	job_species_blacklist = list(
 		"Corporate Liaison" = list(

@@ -502,7 +502,7 @@
 	icon_state = "whitemedicalgown"
 	worn_state = "whitemedicalgown"
 
-/obj/item/clothing/under/legion
+/obj/item/clothing/under/legionddd
 	name = "Tau Ceti Foreign Legion uniform"
 	desc = "A blue field uniform worn by Tau Ceti Foreign Legion forces."
 	icon = 'icons/clothing/under/uniforms/tcfl_uniform.dmi'
